@@ -6,8 +6,9 @@ import (
 	"log"
 	"os"
 	"runtime"
-	"searcher/words"
 	"unsafe"
+
+	"github.com/larryhu/searcher/words"
 )
 
 type Container struct {

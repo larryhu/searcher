@@ -2,8 +2,9 @@ package sorts
 
 import (
 	"log"
-	"searcher/utils"
 	"sync"
+
+	"github.com/larryhu/searcher/utils"
 
 	"github.com/emirpasic/gods/trees/avltree"
 )

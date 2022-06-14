@@ -1,4 +1,4 @@
-module searcher
+module github.com/larryhu/searcher
 
 go 1.18
 

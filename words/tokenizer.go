@@ -2,8 +2,9 @@ package words
 
 import (
 	"embed"
-	"searcher/utils"
 	"strings"
+
+	"github.com/larryhu/searcher/utils"
 
 	"github.com/wangbin/jiebago"
 )

@@ -1,10 +1,11 @@
 package sorts
 
 import (
-	"searcher/model"
 	"sort"
 	"strings"
 	"sync"
+
+	"github.com/larryhu/searcher/model"
 )
 
 const (
